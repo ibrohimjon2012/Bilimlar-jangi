@@ -1,0 +1,6 @@
+{
+  "name": "Bilim Jangi — 40 Million",
+  "description": "Bilim Jangi — 40 Million: 'Kim boy bo'lishni xohlaydi' uslubidagi, o'zbek tilidagi qiziqarli va ma'rifiy viktorina o'yini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
